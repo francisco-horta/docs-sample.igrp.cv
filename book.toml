@@ -1,0 +1,22 @@
+[book]
+authors = [Francisco Horta]
+language = "en"
+multilingual = false
+src = "src"
+title = "Portal de documentos"
+
+[output.html]
+additional-css = ["theme/css/additional.css"]
+additional-js = []
+default-theme = "dark"
+preferred-dark-theme = "ayu"
+no-section-label = true
+site-url = "/"
+cname = ""
+
+[output.hmtl.print]
+enable = false
+
+[output.html.fold]
+enable = true
+level = 0
